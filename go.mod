@@ -1,4 +1,4 @@
-module github.com/suborbital/compute-go
+module github.com/flaki/compute-go
 
 go 1.17
 
